@@ -23,6 +23,13 @@ I felt that there needs to be a tool which provides more functionality than the 
 
 It was then I decided to maintain a package that helps people to implement various operations on Data Structures & Algorithms in an easy manner. This ultimately motivated me to the create this DSA package containing approximately 2800 lines of Java source code.
 
+### How to Utilise This Package Effectively :key:
+
+1. Download all the package files.
+2. Store them in a directory.
+3. Use import statment in your Java program.
+4. For example - import dsa.dataStructures.BinaryTree.*
+
 ### List of Provided Subpackages, Classes and Methods with Brief Descriptions :pen: 
 
 #### **1. Algorithms**
@@ -344,11 +351,3 @@ CircularLinkedList Class & It's Methods
   * serialize() : Serializes the binary search tree into a string representation.
   
   * deserialize() : Deserializes a string representation of a binary search tree to reconstruct the tree structure. 
-
-
-### How to Utilise This Package Effectively :key:
-
-1. Download all the package files.
-2. Store them in a directory.
-3. Use import statment in your Java program.
-4. For example - import dsa.dataStructures.BinaryTree.*
