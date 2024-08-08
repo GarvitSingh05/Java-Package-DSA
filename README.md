@@ -1,5 +1,5 @@
-## Java Package For Data Structures & Algorithms :fire:
-### By Garvit Singh, IT Undergraduate
+## StructureCube - A Java Package For Data Structures & Algorithms :fire:
+### By Garvit Singh
 
 ### Project Description :notebook: 
 
